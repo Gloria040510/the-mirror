@@ -1,0 +1,31 @@
+1
+00:00:00,000 --> 00:00:03,400
+Does AI agree with you too much?
+
+2
+00:00:03,400 --> 00:00:09,600
+One question, asked from three viewpoints.
+
+3
+00:00:09,600 --> 00:00:14,267
+Align similar sentences and highlight differences in wording.
+
+4
+00:00:14,267 --> 00:00:21,467
+Challenge the answer twice, then inspect each message sent to the model.
+
+5
+00:00:21,467 --> 00:00:27,400
+Compare an unsupported claim with the result of a new count.
+
+6
+00:00:27,400 --> 00:00:33,233
+Choose the answer you prefer, then reveal its original prompt.
+
+7
+00:00:33,233 --> 00:00:38,300
+Explore held-out results, confidence intervals, and research downloads.
+
+8
+00:00:38,300 --> 00:00:41,500
+Bring your next question to The Mirror.

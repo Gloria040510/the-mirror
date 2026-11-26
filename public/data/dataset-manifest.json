@@ -1,0 +1,39 @@
+{
+  "seed": 42,
+  "splits": {
+    "train": {
+      "samples": 10500,
+      "problems": 1500,
+      "families": [
+        "affine",
+        "bags",
+        "density",
+        "division",
+        "draw",
+        "intersection",
+        "ohm",
+        "order",
+        "range",
+        "remainder",
+        "retry",
+        "slice",
+        "speed",
+        "square",
+        "union"
+      ],
+      "sha256": "dbeabe8b6680284e4bccf14645a81b2c4604d33047ac9db6349f175e92671a0b"
+    },
+    "test": {
+      "samples": 3500,
+      "problems": 500,
+      "families": [
+        "dice",
+        "energy",
+        "loop",
+        "negation",
+        "quadratic"
+      ],
+      "sha256": "7d37b6a003f0577c3c117a8446ceb0107b73942bb5bfe1c1d0449544a9cc0b4c"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+.next/
+out/
+*.tsbuildinfo
+__pycache__/
+.venv/
+data/
+!public/data/
+runs/
+.env*
+
+public/data/*.tmp
